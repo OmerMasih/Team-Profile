@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(232, 238, 240);
+}
+
+#navbar {
+  background-color: rgb(24, 105, 132);
+  color: whitesmoke;
+  padding: 20px;
+}
+
+.navbar-brand {
+  font-size: 50px;
+}
+
+.card-header {
+  background-color: rgb(24, 105, 132);
+  color: whitesmoke;
+  text-decoration: underline;
+  font-size: 1rem;
+}
+
+a {
+  color: rgb(24, 105, 132);
+}
+
+a:hover {
+  background-color: red;
+  color: var(--secondary);
+  cursor: pointer;
+}
+
+.card-body {
+  color: black;
+  font-style: unset;
+  text-decoration: underline;
+  height: 160px;
+  width: 250px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  justify-content: center;
+}
+
+footer {
+  background-color: rgb(24, 105, 132);
+  padding: 30px;
+  color: whitesmoke;
+  text-align: center;
+  margin-top: 250px;
+}
+
+#bdr {
+  border-radius: 20px;
+}
