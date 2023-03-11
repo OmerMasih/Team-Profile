@@ -24,6 +24,10 @@ The user should clone the repository from GitHub and download Node. This applica
 Use inquirer from your command line to answer questions about your project.
 View walk through video here - https://drive.google.com/file/d/1WqTmVCyjnImxrbd6uTgVclRoDzcjexgn/view
 
+
+<img width="1279" alt="Screen Shot 2023-03-10 at 11 38 30 AM" src="https://user-images.githubusercontent.com/111917255/224449643-c7d38e89-1210-4440-a303-740888bd8b99.png">
+
+
 ## License
 
 This project is license under MIT
