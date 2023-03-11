@@ -10,7 +10,7 @@ test("creates an Intern object", () => {
 
 // Getting school from getSchool()
 test("gets employee school", () => {
-  const Elintern = new Intern("Nicole", 90, "masihomer123@gmail", "SFSU");
+  const Elintern = new Intern("Masihullah", 90, "masihomer123@gmail", "SFSU");
 
   expect(Elintern.getSchool()).toEqual(
     expect.stringContaining(Elintern.school.toString())
